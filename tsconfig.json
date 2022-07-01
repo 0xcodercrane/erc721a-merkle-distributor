@@ -1,0 +1,6 @@
+{
+  "include": ["./hardhat.config.ts", "./deploy", "./test"],
+  "compilerOptions": {
+    "types": ["node", "mocha", "chai"]
+  }
+}
