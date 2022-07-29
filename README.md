@@ -1,6 +1,4 @@
-# FuckFiat-Contracts
-
-Smart contracts for fuckfiat
+# ERC721A minting engine
 
 ### How to deploy contracts
 
